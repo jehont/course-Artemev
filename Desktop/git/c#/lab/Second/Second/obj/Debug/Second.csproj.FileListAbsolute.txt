@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\git\c#\projects\Second\Second\bin\Debug\Second.exe.config
+C:\Users\user\Desktop\git\c#\projects\Second\Second\bin\Debug\Second.exe
+C:\Users\user\Desktop\git\c#\projects\Second\Second\bin\Debug\Second.pdb
+C:\Users\user\Desktop\git\c#\projects\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+C:\Users\user\Desktop\git\c#\projects\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\c#\projects\Second\Second\obj\Debug\Second.exe
+C:\Users\user\Desktop\git\c#\projects\Second\Second\obj\Debug\Second.pdb
