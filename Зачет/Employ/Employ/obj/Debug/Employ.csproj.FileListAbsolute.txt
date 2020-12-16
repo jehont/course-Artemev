@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Зачет\Employ\Employ\obj\Debug\Employ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Зачет\Employ\Employ\obj\Debug\Employ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Зачет\Employ\Employ\bin\Debug\Employ.exe.config
+C:\Users\user\Desktop\Зачет\Employ\Employ\bin\Debug\Employ.exe
+C:\Users\user\Desktop\Зачет\Employ\Employ\bin\Debug\Employ.pdb
+C:\Users\user\Desktop\Зачет\Employ\Employ\obj\Debug\Employ.exe
+C:\Users\user\Desktop\Зачет\Employ\Employ\obj\Debug\Employ.pdb
